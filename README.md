@@ -1,2 +1,2 @@
-# asset3.github.io
-webstation of asset3.org
+# asset3-org.github.io
+web pages for asset3.org
